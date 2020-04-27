@@ -11,11 +11,11 @@ https://www.mongodb.com/download-center/community (according to your OS)
 
 install in mern_stack_api Folder
 
-npm i express => web framework for node
-npm i mongoose => Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks
-npm i body-parser => Node.js body parsing middleware.Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
-npm i cors => CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
-npm i nodemon (Install globally) => nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+1) npm i express => web framework for node
+2) npm i mongoose => Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks
+3) npm i body-parser => Node.js body parsing middleware.Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+4) npm i cors => CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+5) npm i nodemon (Install globally) => nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 Installing all packages in single command:
 npm i -s express mongoose body-parser cors
@@ -27,13 +27,13 @@ npm i -g nodemon
 
 Install in react_crud_node Folder
 
-npm i redux
-npm i react-redux 
-npm i redux-thunk
-npm i axios => For APIs Use
-npm i @material-ui/core
-npm i @material-ui/icons
-npm i -s butter-toast
+1) npm i redux
+2) npm i react-redux 
+3) npm i redux-thunk
+4) npm i axios => For APIs Use
+5) npm i @material-ui/core
+6) npm i @material-ui/icons
+7) npm i -s butter-toast
 
 Install in single command:
 npm i -s redux react-redux redux-thunk
