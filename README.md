@@ -11,7 +11,7 @@ https://www.mongodb.com/download-center/community (according to your OS)
 
 install in mern_stack_api Folder
 
-Install Node_modules
+Install Node_modules:
 npm install
 
 1) npm i express => web framework for node
@@ -30,7 +30,7 @@ npm i -g nodemon
 
 Install in react_crud_node Folder
 
-Install Node_modules
+Install Node_modules:
 npm install
 
 1) npm i redux
