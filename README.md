@@ -1,6 +1,8 @@
 # MERN_Stack_CRUD_App
 CRUD App created using Express / React / Node / MongoDB
 
+<img src="App_Screenshots/image.png" width="400" height="400"/>
+
 # PROJECT SETUP COMMANDS 
 
 # 1) Install MongoDB locally
