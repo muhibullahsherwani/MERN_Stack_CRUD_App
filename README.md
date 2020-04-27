@@ -11,6 +11,9 @@ https://www.mongodb.com/download-center/community (according to your OS)
 
 install in mern_stack_api Folder
 
+Install Node_modules
+npm install
+
 1) npm i express => web framework for node
 2) npm i mongoose => Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks
 3) npm i body-parser => Node.js body parsing middleware.Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
@@ -26,6 +29,9 @@ npm i -g nodemon
 # 3) Packages Install For ReactJS Application
 
 Install in react_crud_node Folder
+
+Install Node_modules
+npm install
 
 1) npm i redux
 2) npm i react-redux 
